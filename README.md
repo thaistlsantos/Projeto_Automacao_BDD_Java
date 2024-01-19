@@ -31,6 +31,7 @@ Foi criada uma Feature com 9 cenários de testes e 28 stpes de validação:
 
 
 Feature: Validar funcionalidades do site automationexercise
+
   	Eu como usuario desejo acessar o site automationexercise
 	E visualizar um formulario de login
 	E realizar o preenchimento do login para dar andamento
@@ -95,7 +96,7 @@ Feature: Validar funcionalidades do site automationexercise
 		Then confiro o nome do produto
 		
 
-#### Qualquer dúvida sobre a utilização do framework, entre em contato:
+#### Qualquer dúvida sobre a utilização do framework e execução , entre em contato, deixei um breve vídeo onde mostra a execução dos testes automatizados.
 
 Thais de Lima Santos - thais_tlsan@hotmail.com
 
